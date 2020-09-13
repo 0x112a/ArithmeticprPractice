@@ -31,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -41,5 +42,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="792" y="101" key="CommitChangelistDialog2" timestamp="1598271761806">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="792" y="101" key="CommitChangelistDialog2/0.23.1920.1006@0.23.1920.1006" timestamp="1598271761806" />
+    <state x="785" y="266" key="Vcs.Push.Dialog.v2" timestamp="1598271766978">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="785" y="266" key="Vcs.Push.Dialog.v2/0.23.1920.1006@0.23.1920.1006" timestamp="1598271766978" />
   </component>
 </project>
